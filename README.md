@@ -19,4 +19,11 @@ ESP32とPCを接続してスケッチを書き込みします。
 
 ![image](https://user-images.githubusercontent.com/11044177/208812035-0134e643-2668-41a9-a30f-63e4712e88b2.png)
 
+OAT化で使用する BINファイルを作成します
+
+![image](https://user-images.githubusercontent.com/11044177/208819082-7011afd9-ac11-4e55-a17b-a964dc51bd97.png)
+
+ファイル選択からスケッチ保存場所のBINを選び、無線でボードに書き込みができます。
+
+![image](https://user-images.githubusercontent.com/11044177/208819679-5c4cf3fd-d4b4-43fc-ba8c-7109a9985d02.png)
 
