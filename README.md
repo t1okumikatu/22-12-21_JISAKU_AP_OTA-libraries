@@ -15,3 +15,8 @@ ESP32とPCを接続してスケッチを書き込みします。
 
 192.168.4.1がAP（アクセスポイント）になります
 
+次にchrome ブラウザ表示します
+
+![image](https://user-images.githubusercontent.com/11044177/208812035-0134e643-2668-41a9-a30f-63e4712e88b2.png)
+
+
